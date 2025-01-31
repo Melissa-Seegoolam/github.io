@@ -1,3 +1,9 @@
---
-title: JavaScript Examples
---
+---
+layout: default
+---
+
+## JavaScript Examples
+
+_yay_
+
+[back](./)
