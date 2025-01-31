@@ -10,6 +10,6 @@ I enjoy collaborating with teams, tackling new challenges, and continuously lear
 
 Check out some examples of my work:
 Resumes & Cover Letters
-[JavaScript]([./javascript.md])
+[JavaScript](https://github.com/Melissa-Seegoolam/github.io/blob/main/JavaScript.md)
 Salesforce
 Servicenow
